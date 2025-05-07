@@ -33,3 +33,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allam1768/allam1768/output/github-contribution-grid-snake.svg" />
+</p>
