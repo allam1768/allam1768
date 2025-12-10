@@ -21,18 +21,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![Figma](https://img.shields.io/badge/-Figma-E34F26?style=for-the-badge&logo=figma)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allam1768&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allam1768&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allam1768/allam1768/output/github-contribution-grid-snake.svg" />
-</p>
