@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Frame 427318926.png" alt="" style="width:100%;" />
+<img src="Frame 427318951.png" alt="" style="width:100%;" />
 
 <h1 align="center">i'm [Allam Permata Putra]</h1>
 <h3 align="center">⚡ just a dev who loves building things that don't crash (often)</h3>
